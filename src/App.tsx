@@ -1,8 +1,8 @@
-import InputWrapper from './components/Input/InputWrapper';
+import AuthPage from './pages/AuthPage';
 
 const App: React.FC = () => {
   return (
-    <InputWrapper size={'large'} placeholder="Логин" />
+    <AuthPage />
   )
 }
 

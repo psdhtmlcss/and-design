@@ -1,0 +1,12 @@
+.logo {
+  display: flex;
+  align-items: center;
+
+  &__text {
+    font-size: 20px;
+    line-height: 28px;
+    font-weight: 500;
+    color: #4082E6;
+    margin-left: 10px;
+  }
+}
